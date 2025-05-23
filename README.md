@@ -41,6 +41,15 @@
 - [Trang chủ HMCL](https://hmcl.huangyuhui.net/)
 - [Tải bản mới nhất](https://github.com/huanghongxun/HMCL/releases)
 
+### PojavLauncher (Pojavlauncher - Việt Nam):
+- [Trang chủ Pojavlauncher](https://pojavlauncher.net/)
+- [Tải bản mới nhất](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
+
+### Minecraft Bedrock ( - Tệp Apk):
+- [Trang chủ Pojavlauncher](https://pojavlauncher.net/)
+- [Tải bản mới nhất](https://github.com/PojavLauncherTeam/PojavLauncher/releases)
+
+
 ---
 
 ## 📁 Các Phiên Bản Minecraft Cũ (Legacy)
